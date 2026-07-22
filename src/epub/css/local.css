@@ -101,3 +101,9 @@ p[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
 /* End letters */
+
+/* Ch 11 sign */
+blockquote[epub|type~="z3998:organization"]{
+	text-align: center;
+}
+/* End ch 11 sign */
