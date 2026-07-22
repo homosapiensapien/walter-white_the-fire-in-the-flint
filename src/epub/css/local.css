@@ -91,7 +91,7 @@ p[epub|type~="z3998:salutation"]{
 
 /* Ch 11 sign */
 #chapter-11 blockquote p{
-  font-variant: small-caps;
+	font-variant: small-caps;
 	text-align: center;
 }
 /* End ch 11 sign */
