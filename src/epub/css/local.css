@@ -107,3 +107,19 @@ blockquote[epub|type~="z3998:organization"]{
 	text-align: center;
 }
 /* End ch 11 sign */
+
+/* Chapter 23 newspaper article */
+blockquote[epub|type~="z3998:article"]{
+	text-align: justify;
+}
+
+blockquote[epub|type~="z3998:article"] header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
+blockquote[epub|type~="z3998:article"] header b{
+	font-weight: bold;
+}
+/* End ch 23 article */
